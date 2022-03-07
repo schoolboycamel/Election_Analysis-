@@ -20,4 +20,5 @@ A total of 369,711 votes were counted between 3 counties.
   -Diana DeGette 272,892 total votes (73.8%) WINNER.
   
   
-<img width="422" alt="image" src="https://user-images.githubusercontent.com/98793962/156964627-a3eb7b40-0245-431f-8111-c3e1129f7863.png">
+<img width="422" alt="image" src="https://user-images.githubusercontent.com/98793962/156980399-a4a84e37-22ac-492d-94bd-0b9fb5fba834.png">
+
